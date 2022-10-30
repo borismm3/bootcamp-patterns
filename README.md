@@ -1,5 +1,5 @@
 # bootcamp-patterns SINGLETON
-CHALLENGE BOOTCAMP MOJIX: Add a singletone architecture for MySql database
+CHALLENGE BOOTCAMP MOJIX: Add a singletone pattern for MySql database
 
 Database used for this challenge:
 

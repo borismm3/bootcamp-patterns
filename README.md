@@ -1,10 +1,12 @@
 # bootcamp-patterns SINGLETON
 CHALLENGE BOOTCAMP MOJIX: Add a singletone architecture for MySql database
 
-Database used for this challenge:\n
+Database used for this challenge:
+
 ![Database created to test](./dataBase.PNG)
 
-Result of executing 3 times the database connection (it only connects once):\n
+Result of executing 3 times the database connection (it only connects once):
+
 ![Testing singleton](./result.PNG)
 
 Sources: 
